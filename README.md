@@ -16,7 +16,6 @@ I also share insights and practical experiences around **TypeScript, backend eng
   <a href="https://github.com/IgorCorreia06">
     <img src="https://img.shields.io/badge/GitHub-IgorCorreia06-181717?style=for-the-badge&logo=github" />
   </a>
-  
   <a href="https://www.instagram.com/igor_egcorreia">
     <img src="https://img.shields.io/badge/Instagram-@igor_egcorreia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
